@@ -1,6 +1,6 @@
 # Langkah Langkah Set-up Flask 
 1. Gunakan Anaconda Navigator Untuk Membuka CMD.exe Prompt (bisa menggunakan command prompt dari windows tapi hati hati dengan instalasinya)
-2. Jalankan pip install flask apabila belum pernah menginstall flask
+2. Jalankan `pip install flask` apabila belum pernah menginstall flask
 3. Masuk kedalam folder yang ingin dijadikan aplikasi
 4. Coding sudah bisa dimulai dari step ini
 5. Untuk Testing Langsung saja gunakan command python {{nama file}}.py
