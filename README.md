@@ -9,3 +9,4 @@
 1. https://www.geeksforgeeks.org/flask-creating-first-simple-application/
 2. https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/
 3. https://towardsdatascience.com/creating-restful-apis-using-flask-and-python-655bad51b24
+4. https://www.domainesia.com/panduan/cara-menjalankan-flask-python-di-hosting/
